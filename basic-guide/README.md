@@ -13,6 +13,12 @@ Entries that are currently crossed out we will get to later in the course.  You 
     - list of files in local folder that have changes that need to be committed
   - `git status`
 - log
+    - Shows the commit history of the repository.
+    - Very helpful for tracking things with multiple changes happening overtime.
+    - Two ways to use this command, the first way shows just a long list of commits
+    - `git log`
+    - The second way provides users a condensed view
+    - `git log --oneline`
 - clone
 - add
 - rm
