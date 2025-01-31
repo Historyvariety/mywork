@@ -20,6 +20,8 @@ Entries that are currently crossed out we will get to later in the course.  You 
     - The second way provides users a condensed view
     - `git log --oneline`
 - clone
+    - Creates a local copy of a remote repository.
+    - `git clone <repository_url>`
 - add
 - rm
   - separately note how to remove from tracking versus fully remove a file from teh repository and working directory
